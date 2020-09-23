@@ -1,0 +1,13 @@
+C:\vs\ZCP\ZCP\obj\Debug\ZCP.csprojAssemblyReference.cache
+C:\vs\ZCP\ZCP\obj\Debug\ZCP.Form1.resources
+C:\vs\ZCP\ZCP\obj\Debug\ZCP.Properties.Resources.resources
+C:\vs\ZCP\ZCP\obj\Debug\ZCP.csproj.GenerateResource.cache
+C:\vs\ZCP\ZCP\obj\Debug\ZCP.csproj.CoreCompileInputs.cache
+C:\vs\ZCP\ZCP\bin\Debug\ZCP.exe.config
+C:\vs\ZCP\ZCP\bin\Debug\ZCP.exe
+C:\vs\ZCP\ZCP\bin\Debug\ZCP.pdb
+C:\vs\ZCP\ZCP\bin\Debug\OpenCvSharp.dll
+C:\vs\ZCP\ZCP\bin\Debug\OpenCvSharp.xml
+C:\vs\ZCP\ZCP\obj\Debug\ZCP.csproj.CopyComplete
+C:\vs\ZCP\ZCP\obj\Debug\ZCP.exe
+C:\vs\ZCP\ZCP\obj\Debug\ZCP.pdb

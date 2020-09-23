@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZCP", "ZCP\ZCP.csproj", "{B69084E2-D41E-4A6B-857B-3FA60246CFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69084E2-D41E-4A6B-857B-3FA60246CFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69084E2-D41E-4A6B-857B-3FA60246CFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69084E2-D41E-4A6B-857B-3FA60246CFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69084E2-D41E-4A6B-857B-3FA60246CFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {046D9B38-9BA6-448E-91BF-EF9038717B7D}
+	EndGlobalSection
+EndGlobal
